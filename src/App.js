@@ -1,11 +1,9 @@
 import './App.css';
+import ProfileEdit from './ProfileEdit';
 
 function App() {
-  return (
-    <div>
-      hello
-    </div>
-  );
+  return <ProfileEdit />
+  
 }
 
 export default App;
